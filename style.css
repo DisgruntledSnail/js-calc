@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.calcButtons {
+    margin: 50px 200px auto 1000px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.buttons {
+    background-color: darkslategray;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 25px;
+}
